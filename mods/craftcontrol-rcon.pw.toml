@@ -1,0 +1,13 @@
+name = "CraftControl RCON"
+filename = "CraftControlRCON-forge-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a0da98756abdfdd86b5ec3a8da58f08897a8683"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4576054
+project-id = 472661

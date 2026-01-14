@@ -1,0 +1,13 @@
+name = "WTHIT Forge Edition"
+filename = "wthit-1.20.1-forge-8.20.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33e2c67f2cc186fc53bb219cb0120f5f81690ebe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7421307
+project-id = 455982

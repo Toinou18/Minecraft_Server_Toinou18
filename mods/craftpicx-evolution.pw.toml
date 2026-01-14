@@ -1,0 +1,13 @@
+name = "Craftpicx_Evolution"
+filename = "craftpicx_evolution-2.0.9-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1dac2972a8e525a8e3d09876b836725095d030be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6284744
+project-id = 1124260

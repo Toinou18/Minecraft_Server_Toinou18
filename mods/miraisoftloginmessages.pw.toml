@@ -1,0 +1,13 @@
+name = "Custom Login Messages [FORGE]"
+filename = "miraisoftloginmessages-1.4.0-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "953c2580ee2fbc0d3b0b73507e66b5154cf263ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4580433
+project-id = 419152

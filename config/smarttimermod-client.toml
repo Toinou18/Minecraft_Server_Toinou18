@@ -1,0 +1,19 @@
+
+["Timer Display Settings"]
+	#X position of the timer display (0 = left edge)
+	#Range: > 0
+	timer_x_position = 10
+	#Y position of the timer display (0 = top edge)
+	#Range: > 0
+	timer_y_position = 50
+	#Show timers even in menus
+	show_timers_in_menu = true
+	#Animation speed multiplier
+	#Range: 0.1 ~ 5.0
+	animation_speed = 1.0
+	#Maximum number of simultaneous timers
+	#Range: 1 ~ 20
+	max_timers = 5
+	#Play sound when timer expires
+	enable_sound_alerts = true
+

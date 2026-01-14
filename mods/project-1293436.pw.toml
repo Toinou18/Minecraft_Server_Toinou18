@@ -1,0 +1,12 @@
+name = "project-1293436"
+side = "client"
+filename = "smarttimermod-1.2.jar"
+
+[update.curseforge]
+file-id = 6690852
+project-id = 1293436
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "5a280a8654443848d9c4968f488ea752f9c3d891"

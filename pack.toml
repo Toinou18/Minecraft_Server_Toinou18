@@ -1,0 +1,12 @@
+name = "Craftpicx Evolution Prod"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d2044b060e47534a40f14fe51630655225a70afe5c31dbc37968ce54a9ff54ca"
+
+[versions]
+forge = "47.4.13"
+minecraft = "1.20.1"
