@@ -4380,11 +4380,6 @@ hash = "4ed3bf205c8f6aa985b33a4cd082a519f7f9dc764d1dcee7e560668818690549"
 metafile = true
 
 [[files]]
-file = "mods/super-jail.pw.toml"
-hash = "28759b7b79ece06c9ccd8b8e5f089b0f899196c2115aaae2f6878a736f93da22"
-metafile = true
-
-[[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "c848e82a1549066d59794c88c3a2ebcfbe059b75b73978099f8ba7ec77f3e161"
 metafile = true
