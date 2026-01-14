@@ -4315,6 +4315,11 @@ hash = "a2d1001b1d04604ebcfe071c0459538410a3a9a25a6fb1d5a79997fcef57cee5"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "5fc48d3615a88faca6041e584dc417368e61d6d398ff9fde737d56a6a06f2d37"
 metafile = true
