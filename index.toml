@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
+
+[[files]]
 file = "bsl-shaders.pw.toml"
 hash = "c384d1c117331920a44021339b534c9129286b78ccdf54cda7a41a3ce75529e4"
 metafile = true
@@ -4321,7 +4325,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
-hash = "acb83d6550f84931c3c2e3b1ccf614ad4425151ad6c21669e83c32ab4a5609ef"
+hash = "8338133781158422b367393857cd28e7a8690e707a35a1e6d0ae5b2e9a5b22e2"
 metafile = true
 
 [[files]]
@@ -4448,3 +4452,7 @@ hash = "bb86e6e8bce418c33577040679c95e713a79de73a0d07fc0770ce15030925a0e"
 file = "resourcepacks/primes-hd-textures.pw.toml"
 hash = "2ac12536dd6066d994e85ed313dfff07dea2aa5842ae6eb8091d7b732d93fd61"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "28d1af3325b3ab5feced8de8778dac344facfb0bb0e5188482a26e057b9fb442"
