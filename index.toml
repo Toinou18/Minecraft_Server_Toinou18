@@ -4229,6 +4229,11 @@ hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
 metafile = true
 
 [[files]]
+file = "mods/create-harmonics.pw.toml"
+hash = "8c357458274ea5bb0f5a1dee3b5ba88f7943c898877d60487f17b86f4dc40cf4"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "f7e69d12880a6c82f108e666e989b26f62b672e44f639a5383c09612a20fe69f"
 metafile = true
@@ -4240,7 +4245,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -4305,7 +4310,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]

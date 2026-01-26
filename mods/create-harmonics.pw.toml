@@ -1,0 +1,13 @@
+name = "Create: Harmonics"
+filename = "createharmonics-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWn64pD9/versions/i7DeqkVX/createharmonics-1.1.1.jar"
+hash-format = "sha512"
+hash = "f73393fe92da0b325e85d4f237a92c7a889ae9951bb2d1a40602f31e4cb3cd25cc6f99c67023dfbce0d4a932b30a6e1bb8d17ea04323e32f29a2701bb260c1f0"
+
+[update]
+[update.modrinth]
+mod-id = "uWn64pD9"
+version = "i7DeqkVX"
