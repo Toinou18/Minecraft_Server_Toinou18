@@ -4170,7 +4170,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -4351,6 +4351,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "86e7c693b88353fabe9acf70bfc1e7f123eb376919e7d043401e2dc46978fcb8"
 metafile = true
 
 [[files]]
