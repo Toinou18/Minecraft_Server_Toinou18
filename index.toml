@@ -4299,6 +4299,16 @@ hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "7702a4d35d4a013782c11448a489da93ee397670a3e4274395981e44fda56586"
+metafile = true
+
+[[files]]
+file = "mods/forgematicaprinter.pw.toml"
+hash = "67f5835d873609e4fe96223466931d40fb377853a7bbc17a593498e395b16e16"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
@@ -4326,6 +4336,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "754a03e5f088d19287fe2f25b7b3165dd4e44e294838c679b218fcac54a11b5b"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "d921175a82cf60e7ebaa7f014f924b77a2f5ace44e81b309dc996c4c55b7455b"
 metafile = true
 
 [[files]]
