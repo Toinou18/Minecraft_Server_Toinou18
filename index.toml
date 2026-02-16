@@ -4239,6 +4239,11 @@ hash = "8c357458274ea5bb0f5a1dee3b5ba88f7943c898877d60487f17b86f4dc40cf4"
 metafile = true
 
 [[files]]
+file = "mods/create-missiles.pw.toml"
+hash = "e375074003b4af58201040e9dc62db995a3b4f0a0fa9b2c43887c96e1aff362c"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
