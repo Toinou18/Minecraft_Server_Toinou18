@@ -4199,16 +4199,6 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
-file = "mods/cosmos-library.pw.toml"
-hash = "fd959c61b9489bc0d16b223b0775d2d311af50f01599c0a424daf4142ab11f1f"
-metafile = true
-
-[[files]]
-file = "mods/cosmos-portals.pw.toml"
-hash = "3b4ca116a4543fd44e1e268cd4a43795f58d6d2726d9dd40ac77fcf5cbdd41d9"
-metafile = true
-
-[[files]]
 file = "mods/craftcontrol-rcon.pw.toml"
 hash = "2f30812f02605106c440c514c5a3e8a58348bb1f7ce457899fba3b5ebd49c429"
 metafile = true
@@ -4236,11 +4226,6 @@ metafile = true
 [[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
-metafile = true
-
-[[files]]
-file = "mods/create-harmonics.pw.toml"
-hash = "8c357458274ea5bb0f5a1dee3b5ba88f7943c898877d60487f17b86f4dc40cf4"
 metafile = true
 
 [[files]]
@@ -4336,11 +4321,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
-metafile = true
-
-[[files]]
-file = "mods/languagereloadunofficial.pw.toml"
-hash = "412a5be116fc0dd3d6f49dc6b9bed835c538595ed0f2d52906d055415e86e514"
 metafile = true
 
 [[files]]
