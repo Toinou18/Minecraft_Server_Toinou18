@@ -1,0 +1,15 @@
+name = "Create: Cyber Goggles"
+side = "client"
+filename = "create_cyber_goggles-1.20.1-7.0.0-Forge.jar"
+
+[update.modrinth]
+mod-id = "TlQAWQCY"
+version = "uKwE3jtB"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/TlQAWQCY/versions/uKwE3jtB/create_cyber_goggles-1.20.1-7.0.0-Forge.jar"
+hash = "49fd84d281b2a69421b43cd03dd19ceaeb508a8b179d8c3e3fdee895db536ede18416e5a77442ee6ca1b3f64171bcd131468bbdbc5b279b05c1a9ceaa8d03ab6"
+
+[option]
+optional = true

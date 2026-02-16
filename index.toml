@@ -4229,6 +4229,11 @@ hash = "834517e20257dd0b64f4a6d778ad773d8e422cf7864b46a557e2fab26d153ad0"
 metafile = true
 
 [[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+hash = "3dbed33a51c4ef70891f2c3627df92c9bc710b9d3b7a5aae8bb0bff35e1f6d91"
+metafile = true
+
+[[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
 metafile = true
