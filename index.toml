@@ -4210,7 +4210,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftcontrol-rcon.pw.toml"
-hash = "061561a346dfbc42a649f72923f00e944536a75f9fcb47247029d3ac208e77b6"
+hash = "2f30812f02605106c440c514c5a3e8a58348bb1f7ce457899fba3b5ebd49c429"
 metafile = true
 
 [[files]]
@@ -4320,7 +4320,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
+hash = "0365b3a2bfb2ea227d01226595b589a3564d779451bc7bbe254a232ef3d616a0"
 metafile = true
 
 [[files]]
