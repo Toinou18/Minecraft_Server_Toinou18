@@ -2,6 +2,6 @@
 
 Packwiz pour le serveur CPE\
 Pour tous les joueurs qui tomberais sur ce dépot, le site web lié a celui-ci est : [CPE site web](https://cpe.web.boxtoplay.com/)\
-> [!ATTENTION]
+> [!PRUDENCE]
 > ce serveur est pour l'instant sur invitation, lisez bien le site web.
 
