@@ -4369,11 +4369,6 @@ hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
-metafile = true
-
-[[files]]
 file = "mods/project-1293436.pw.toml"
 hash = "693448013fe37687bf768fec9860e4dd6bcb22b68ba6a97d2eb7d1007d4f715f"
 metafile = true
