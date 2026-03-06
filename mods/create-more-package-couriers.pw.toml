@@ -1,0 +1,13 @@
+name = "Create More: Package Couriers"
+filename = "cmpackagecouriers-forge-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GRqrodjM/versions/dol0bwwB/cmpackagecouriers-forge-2.0.2.jar"
+hash-format = "sha512"
+hash = "5d314e3017660961b8e260ec588f38b9f45e93bf2454e6808ab00c7d02ceeaebf0ca5c8ccfd33408ad92c76c5ee8d015a035e7e30c3482ec5ed0bd2ceb3b5ea5"
+
+[update]
+[update.modrinth]
+mod-id = "GRqrodjM"
+version = "dol0bwwB"

@@ -4229,6 +4229,11 @@ hash = "e375074003b4af58201040e9dc62db995a3b4f0a0fa9b2c43887c96e1aff362c"
 metafile = true
 
 [[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "5b1a757094725e7548913097672c4d06a0415f9b64a25b694ac8b3bb6478972e"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
