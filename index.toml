@@ -4154,11 +4154,6 @@ file = "config/xenotech-common.toml"
 hash = "47db315c3688321a1db172c1ce8a29ed70f9b3fd6ffb112c46623ea989d87c98"
 
 [[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
@@ -4371,11 +4366,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
-metafile = true
-
-[[files]]
-file = "mods/power-grid.pw.toml"
-hash = "86e7c693b88353fabe9acf70bfc1e7f123eb376919e7d043401e2dc46978fcb8"
 metafile = true
 
 [[files]]
