@@ -4169,11 +4169,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "0f53b68912df649f51684bf9ee43657354a1b1a6052986f3690af5d666395158"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
@@ -4416,6 +4411,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "9c33a58f971fdd8e8c83e59e5a2ee6d183901c08d09022c4309769a813d3e33b"
 metafile = true
 
 [[files]]
