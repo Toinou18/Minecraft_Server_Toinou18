@@ -4239,11 +4239,6 @@ hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
 
 [[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "f7e69d12880a6c82f108e666e989b26f62b672e44f639a5383c09612a20fe69f"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
 metafile = true
@@ -4281,11 +4276,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "3e0011586edd5ce6a53d4e08ce1987c41d3262b0c7e8ebbdcfa77379bb2978e4"
-metafile = true
-
-[[files]]
-file = "mods/dragonlib.pw.toml"
-hash = "e2b921d1a706a7321198966e20dbd4eab47f409f8ab3d80a57a57513e94da1c4"
 metafile = true
 
 [[files]]
