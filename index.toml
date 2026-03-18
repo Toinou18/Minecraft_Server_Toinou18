@@ -4284,11 +4284,6 @@ hash = "3e0011586edd5ce6a53d4e08ce1987c41d3262b0c7e8ebbdcfa77379bb2978e4"
 metafile = true
 
 [[files]]
-file = "mods/documents.pw.toml"
-hash = "4aa22a4d4d2229707e3c5810f9ee1ec841ecad474759b4f73f9880dad1abc7b3"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "ea36b8516ea429e479368b708082e89af5fa50dc3576b52c2ff8c8dac595801c"
 metafile = true
@@ -4301,11 +4296,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
-metafile = true
-
-[[files]]
-file = "mods/fcl.pw.toml"
-hash = "8b7001bce2c031eed830c0bfedc0624d9cc88cb6dd6e123dade26d11b2c60f11"
 metafile = true
 
 [[files]]
