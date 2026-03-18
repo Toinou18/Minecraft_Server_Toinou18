@@ -4429,11 +4429,6 @@ hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
 metafile = true
 
 [[files]]
-file = "mods/trafficcraft.pw.toml"
-hash = "c848e82a1549066d59794c88c3a2ebcfbe059b75b73978099f8ba7ec77f3e161"
-metafile = true
-
-[[files]]
 file = "mods/ultimate-car-mod.pw.toml"
 hash = "9cad7b228a8e966b36398fbc644a420bf1b818f90352e1e8c90bca52dfef2cc0"
 metafile = true
