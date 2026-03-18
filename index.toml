@@ -4444,11 +4444,6 @@ hash = "f4af05303b3e42790cf393ebb2c1a51847a6b54945ad0eb1a0ec5b9b17295a81"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-binaries.pw.toml"
-hash = "03c2bc9e406cebc8c70dbdb7cb7e1592e9c41c2d8c2c57ff65f9b1e1501cf4f2"
-metafile = true
-
-[[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
 hash = "9fa9b86f4975f5995519f284c519482d7aa69f2e3cbc2be208dc43c46998bed6"
 metafile = true
