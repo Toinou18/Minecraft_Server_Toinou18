@@ -4274,6 +4274,11 @@ hash = "3e0011586edd5ce6a53d4e08ce1987c41d3262b0c7e8ebbdcfa77379bb2978e4"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
+metafile = true
+
+[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "b0b377e55947f0ff87ec38f918b3a931188a7c6e724966eded882c7a16277c71"
 metafile = true
