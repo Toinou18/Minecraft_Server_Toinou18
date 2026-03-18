@@ -4159,11 +4159,6 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "8b9bd5d12a7068c334ab4ad626a9a86e70302cda90885daa531bfa842e8b29c5"
-metafile = true
-
-[[files]]
 file = "mods/animal-feeding-trough.pw.toml"
 hash = "dd120a6802f5962043d987d0b951d046f780a0a62d4ff6578fe920ee8e2ab619"
 metafile = true
@@ -4359,11 +4354,6 @@ hash = "5fc48d3615a88faca6041e584dc417368e61d6d398ff9fde737d56a6a06f2d37"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
-metafile = true
-
-[[files]]
 file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
 hash = "8338133781158422b367393857cd28e7a8690e707a35a1e6d0ae5b2e9a5b22e2"
 metafile = true
@@ -4426,11 +4416,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4ed3bf205c8f6aa985b33a4cd082a519f7f9dc764d1dcee7e560668818690549"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "974af7bd8b20941d615aa6d37f522da34f62d81ddee97ccfad3c458b5db8ece5"
 metafile = true
 
 [[files]]
