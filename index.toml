@@ -4440,7 +4440,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "f4af05303b3e42790cf393ebb2c1a51847a6b54945ad0eb1a0ec5b9b17295a81"
+hash = "f23d71ce94d45ce3c219c66196680081cd445ed28048f9a9a8217c52669644b2"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "c62666398a756d3bc18d254c7cffef9356a9ab90409a7468b801eba3f2bf86bd"
 metafile = true
 
 [[files]]
