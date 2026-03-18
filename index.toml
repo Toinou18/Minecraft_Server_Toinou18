@@ -4184,11 +4184,6 @@ hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "7bebb016d06888c0efafc464ed041dad7fded7c0947457bdfb9eedf00b48f9d2"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
@@ -4289,6 +4284,11 @@ hash = "3e0011586edd5ce6a53d4e08ce1987c41d3262b0c7e8ebbdcfa77379bb2978e4"
 metafile = true
 
 [[files]]
+file = "mods/documents.pw.toml"
+hash = "4aa22a4d4d2229707e3c5810f9ee1ec841ecad474759b4f73f9880dad1abc7b3"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "ea36b8516ea429e479368b708082e89af5fa50dc3576b52c2ff8c8dac595801c"
 metafile = true
@@ -4301,6 +4301,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
+metafile = true
+
+[[files]]
+file = "mods/fcl.pw.toml"
+hash = "8b7001bce2c031eed830c0bfedc0624d9cc88cb6dd6e123dade26d11b2c60f11"
 metafile = true
 
 [[files]]
