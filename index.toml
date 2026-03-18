@@ -4274,6 +4274,11 @@ hash = "3e0011586edd5ce6a53d4e08ce1987c41d3262b0c7e8ebbdcfa77379bb2978e4"
 metafile = true
 
 [[files]]
+file = "mods/diet.pw.toml"
+hash = "e83fca1fae930c9513c107527d4618a8832f8b9e779e1d50b1e63e148073f83d"
+metafile = true
+
+[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
 metafile = true
@@ -4296,6 +4301,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "99876b4f4941ce79c052275c1b10530b1581cc86479c4b0252e9c8b0bc93f8b7"
+metafile = true
+
+[[files]]
+file = "mods/firstaid.pw.toml"
+hash = "7823845c196434c7d310e7b9ae0628dd6934bff27d3d6e572a85833e15e643f4"
 metafile = true
 
 [[files]]
