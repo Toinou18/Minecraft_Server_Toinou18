@@ -4319,6 +4319,11 @@ hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "0365b3a2bfb2ea227d01226595b589a3564d779451bc7bbe254a232ef3d616a0"
 metafile = true
@@ -4409,6 +4414,11 @@ hash = "0a9437e4b4d53291137e780a5f4d85dc06f584b1c43b8fdec788158da1770f3e"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
+metafile = true
+
+[[files]]
 file = "mods/signpost.pw.toml"
 hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
 metafile = true
@@ -4416,6 +4426,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "e8e2c72258f696c95099d8ecfe3cca73a96c0cbc12709c0b5877ad9d712eeae6"
 metafile = true
 
 [[files]]
