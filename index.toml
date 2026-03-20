@@ -4339,6 +4339,11 @@ hash = "d150fa1845c5cd2b017c202e1792a6fe5c5155c34ceb710213370d8d83819924"
 metafile = true
 
 [[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "1e09343862563482d2c4f129b186510cadc17c4ffe8860ce514bb2859fbb6f4b"
+metafile = true
+
+[[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
 metafile = true
