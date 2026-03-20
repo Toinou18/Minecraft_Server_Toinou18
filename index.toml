@@ -4334,6 +4334,16 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "d150fa1845c5cd2b017c202e1792a6fe5c5155c34ceb710213370d8d83819924"
+metafile = true
+
+[[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "0365b3a2bfb2ea227d01226595b589a3564d779451bc7bbe254a232ef3d616a0"
 metafile = true
@@ -4356,6 +4366,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "d921175a82cf60e7ebaa7f014f924b77a2f5ace44e81b309dc996c4c55b7455b"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
