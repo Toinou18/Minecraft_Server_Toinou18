@@ -4394,6 +4394,11 @@ hash = "a2d1001b1d04604ebcfe071c0459538410a3a9a25a6fb1d5a79997fcef57cee5"
 metafile = true
 
 [[files]]
+file = "mods/mob-sunscreen.pw.toml"
+hash = "24665c4458ac665964e8cb4fa71ac1ee5fa9c6eb17706d6cfc08277d17b1a91c"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "5fc48d3615a88faca6041e584dc417368e61d6d398ff9fde737d56a6a06f2d37"
 metafile = true
