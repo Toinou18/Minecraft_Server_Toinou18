@@ -4429,8 +4429,8 @@ hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
 
 [[files]]
-file = "mods/realistic-airdrop.pw.toml"
-hash = "b61b484e3703b1614b32a9401e3d4819c769673d05c7dd648aa5e507529e6ae2"
+file = "mods/reairdrop-supply.pw.toml"
+hash = "b3c552dc17bbe92f4febb6c99476a539a46eb937ce13724a675ca0ce1931e3ca"
 metafile = true
 
 [[files]]
