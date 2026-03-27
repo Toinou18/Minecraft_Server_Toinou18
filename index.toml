@@ -4419,6 +4419,11 @@ hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
 metafile = true
 
 [[files]]
+file = "mods/paojiao134s-airdrop.pw.toml"
+hash = "1a0a8e9feb9c19ba7b216b3fed14177f8da4c3321fe7c8e93097336712b9f37d"
+metafile = true
+
+[[files]]
 file = "mods/project-1293436.pw.toml"
 hash = "693448013fe37687bf768fec9860e4dd6bcb22b68ba6a97d2eb7d1007d4f715f"
 metafile = true
@@ -4426,11 +4431,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
-metafile = true
-
-[[files]]
-file = "mods/reairdrop-supply.pw.toml"
-hash = "b3c552dc17bbe92f4febb6c99476a539a46eb937ce13724a675ca0ce1931e3ca"
 metafile = true
 
 [[files]]
