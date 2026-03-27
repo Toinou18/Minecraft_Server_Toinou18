@@ -4189,6 +4189,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
 file = "mods/craftcontrol-rcon.pw.toml"
 hash = "2f30812f02605106c440c514c5a3e8a58348bb1f7ce457899fba3b5ebd49c429"
 metafile = true
@@ -4279,6 +4284,11 @@ hash = "e83fca1fae930c9513c107527d4618a8832f8b9e779e1d50b1e63e148073f83d"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-ai.pw.toml"
+hash = "61dce75140a1b29ff23c0a407142b591f019774f42184d1ff093262cd534ab01"
+metafile = true
+
+[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
 metafile = true
@@ -4341,6 +4351,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "e056d33789c11e9102a012af26086d6cecc85a2815ec6cd9dd8397fea0d2573e"
 metafile = true
 
 [[files]]
@@ -4506,6 +4521,11 @@ metafile = true
 [[files]]
 file = "mods/yawp.pw.toml"
 hash = "529600221c2c460dcf9da6a634d2c8bbabecd4d2727359e6cd36dc636252f208"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "7a4b8e290aa6cd5602482fce48c71a2822a2380f35a586cd7444b3f1680629e8"
 metafile = true
 
 [[files]]
