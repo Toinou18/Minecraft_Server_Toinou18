@@ -4419,11 +4419,6 @@ hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
 metafile = true
 
 [[files]]
-file = "mods/paojiao134s-airdrop.pw.toml"
-hash = "1a0a8e9feb9c19ba7b216b3fed14177f8da4c3321fe7c8e93097336712b9f37d"
-metafile = true
-
-[[files]]
 file = "mods/project-1293436.pw.toml"
 hash = "693448013fe37687bf768fec9860e4dd6bcb22b68ba6a97d2eb7d1007d4f715f"
 metafile = true
@@ -4491,31 +4486,6 @@ metafile = true
 [[files]]
 file = "mods/ultimate-car-mod.pw.toml"
 hash = "9cad7b228a8e966b36398fbc644a420bf1b818f90352e1e8c90bca52dfef2cc0"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "f23d71ce94d45ce3c219c66196680081cd445ed28048f9a9a8217c52669644b2"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-binaries.pw.toml"
-hash = "c62666398a756d3bc18d254c7cffef9356a9ab90409a7468b801eba3f2bf86bd"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "9fa9b86f4975f5995519f284c519482d7aa69f2e3cbc2be208dc43c46998bed6"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "1e9bcc140af33caf45c8c2e42eb1917e9884b0f26bc99179b6102c5071b1aa87"
 metafile = true
 
 [[files]]
