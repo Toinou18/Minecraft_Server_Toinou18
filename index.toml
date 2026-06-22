@@ -4374,16 +4374,6 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
-file = "mods/kozhins-lib.pw.toml"
-hash = "43b6dbfbc5fcf22a2068906db61996756469128a73a089a834966ec96113ad35"
-metafile = true
-
-[[files]]
-file = "mods/loot-modifier.pw.toml"
-hash = "c13aca21114c400994964aa93bee1e0196e9e4725d7d40d5837fea5070510621"
-metafile = true
-
-[[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "754a03e5f088d19287fe2f25b7b3165dd4e44e294838c679b218fcac54a11b5b"
 metafile = true
