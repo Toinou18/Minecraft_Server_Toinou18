@@ -1,0 +1,13 @@
+name = "Kozhin's Lib"
+filename = "kozhin_lib_k-1.1.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99915d78e2d47943d31248cf472a89b3bbde7f2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8230880
+project-id = 1518388

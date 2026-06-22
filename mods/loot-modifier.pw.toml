@@ -1,0 +1,13 @@
+name = "Loot Table Modifier"
+filename = "lootmodifier_k-3.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87b51509181a7f380a3b6d7502a6899bd63f2480"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8231709
+project-id = 1092854
