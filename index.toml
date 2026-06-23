@@ -4439,11 +4439,6 @@ hash = "b512862d1e2b863fefc96fef6c08e41e03a7f3cba4cd79a09345d1384d4cfbbe"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
-hash = "acb83d6550f84931c3c2e3b1ccf614ad4425151ad6c21669e83c32ab4a5609ef"
-metafile = true
-
-[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
 metafile = true
