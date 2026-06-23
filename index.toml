@@ -4200,7 +4200,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftcontrol-rcon.pw.toml"
-hash = "2f30812f02605106c440c514c5a3e8a58348bb1f7ce457899fba3b5ebd49c429"
+hash = "061561a346dfbc42a649f72923f00e944536a75f9fcb47247029d3ac208e77b6"
 metafile = true
 
 [[files]]
