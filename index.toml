@@ -4284,11 +4284,6 @@ hash = "e83fca1fae930c9513c107527d4618a8832f8b9e779e1d50b1e63e148073f83d"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-ai.pw.toml"
-hash = "a7f9970f68f2520ecc16794420e83c66ef2e8fb1b5113ffed1303cdaa8b48ade"
-metafile = true
-
-[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
 metafile = true
@@ -4376,11 +4371,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
-metafile = true
-
-[[files]]
-file = "mods/insanelib.pw.toml"
-hash = "b0af44c9a9428c204cd00cdfb5cf5fcaeb2eb57affd87187ba156bfcb849b1b5"
 metafile = true
 
 [[files]]
