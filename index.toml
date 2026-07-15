@@ -4414,11 +4414,6 @@ hash = "a2d1001b1d04604ebcfe071c0459538410a3a9a25a6fb1d5a79997fcef57cee5"
 metafile = true
 
 [[files]]
-file = "mods/mob-sunscreen.pw.toml"
-hash = "24665c4458ac665964e8cb4fa71ac1ee5fa9c6eb17706d6cfc08277d17b1a91c"
-metafile = true
-
-[[files]]
 file = "mods/monolib.pw.toml"
 hash = "b512862d1e2b863fefc96fef6c08e41e03a7f3cba4cd79a09345d1384d4cfbbe"
 metafile = true
@@ -4531,11 +4526,6 @@ metafile = true
 [[files]]
 file = "mods/yawp.pw.toml"
 hash = "529600221c2c460dcf9da6a634d2c8bbabecd4d2727359e6cd36dc636252f208"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "7a4b8e290aa6cd5602482fce48c71a2822a2380f35a586cd7444b3f1680629e8"
 metafile = true
 
 [[files]]
