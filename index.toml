@@ -4320,12 +4320,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "e3017a1b798d295fb73a1b63b1bf9be067adfcf7a79fdcbc919bb8ffddbdbcb9"
+hash = "7702a4d35d4a013782c11448a489da93ee397670a3e4274395981e44fda56586"
 metafile = true
 
 [[files]]
 file = "mods/forgematicaprinter.pw.toml"
-hash = "fe0c33b3d40e91c139b1be5a604d8babd685a5296f30db92cc089c073ae908ec"
+hash = "67f5835d873609e4fe96223466931d40fb377853a7bbc17a593498e395b16e16"
 metafile = true
 
 [[files]]
