@@ -1,0 +1,15 @@
+name = "SeasonHud"
+side = "client"
+filename = "seasonhud-forge-1.20.1-2.0.6.jar"
+
+[update.curseforge]
+file-id = 8107511
+project-id = 690971
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "59348dc534b0a4e97fee204f644ff70949a786e1"
+
+[option]
+optional = true

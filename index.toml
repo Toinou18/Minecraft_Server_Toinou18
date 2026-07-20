@@ -4474,6 +4474,11 @@ hash = "c26697bc1a7dae6ebe0cad19699ee7880a89fbba58f4500e0a8e8d8a701108b0"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud.pw.toml"
+hash = "0df23c2d7de6f4f3a6a12c2738437243aaa8021aa04660426a0d26c42b9d11f2"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "0a9437e4b4d53291137e780a5f4d85dc06f584b1c43b8fdec788158da1770f3e"
 metafile = true
