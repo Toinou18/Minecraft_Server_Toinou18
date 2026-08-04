@@ -4479,6 +4479,11 @@ hash = "52f56be26e793a2de685c945eff6c2561e2f75b31676b23de1b53f401e343efb"
 metafile = true
 
 [[files]]
+file = "mods/railways-untold.pw.toml"
+hash = "f385292ee1665a4377f8858966ac9ed7688c8422fab0b1bbf4e19e049b3fa729"
+metafile = true
+
+[[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "52e3e90b2af5df1504ac22354c28b67555b185384963465abc0c79605e5180e7"
 metafile = true
