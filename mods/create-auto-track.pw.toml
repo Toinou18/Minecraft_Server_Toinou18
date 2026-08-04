@@ -1,0 +1,13 @@
+name = "Create Auto Track"
+filename = "create_auto_track-1.0.1_hf.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T5DwyzeX/versions/Oy0kLN5x/create_auto_track-1.0.1_hf.jar"
+hash-format = "sha512"
+hash = "19de9b225eace63659079a5389cf2c5bfc81c6bb95ef3aefea93f95d6b9b73b520439c8e4d558399a6052aba0403bfc2342801d0f94a9c33217c42a857a2f4f7"
+
+[update]
+[update.modrinth]
+mod-id = "T5DwyzeX"
+version = "Oy0kLN5x"

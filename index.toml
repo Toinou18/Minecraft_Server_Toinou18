@@ -4165,7 +4165,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -4209,8 +4209,18 @@ hash = "1312dfda34059b399cc080eea9d37a9823dfc1e0259c06c3c0d81798ceb463b7"
 metafile = true
 
 [[files]]
+file = "mods/create-auto-track.pw.toml"
+hash = "ca544adfe9526d3d78dad5a5fd84ab5af785b4900f0996182a2adbffff38ee5f"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "55f00dec6de619116fbedc14296e64a0124d22db005eb1433385014c95083444"
+metafile = true
+
+[[files]]
+file = "mods/create-coasters.pw.toml"
+hash = "92269b064c580f731d68f8d4d3427448d9dbfb9c8ecb7ddc486007f1591c7fe1"
 metafile = true
 
 [[files]]
@@ -4249,13 +4259,28 @@ hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
 metafile = true
 
 [[files]]
+file = "mods/create-train-parts.pw.toml"
+hash = "91114480ce369f0ed8b52a8e635423b0bb4984e48e3ffc7fb418875a473f9023"
+metafile = true
+
+[[files]]
+file = "mods/create-train-perspective.pw.toml"
+hash = "030dfb371173bb2e779f26208a164643d011f7c6b7ab0114b01e8df86ad5caf5"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "9f44e3ca0fb7c34a8de416f8b357ef41c2b2c914a8f80e83c55e7e51c230c74d"
+metafile = true
+
+[[files]]
 file = "mods/create-wrapped.pw.toml"
 hash = "2ce5843cb2f4432b6748ec8b342f51dacbb2cd759033f6d99bc8a49232e32270"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -4434,6 +4459,11 @@ hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
 metafile = true
 
 [[files]]
+file = "mods/platforms.pw.toml"
+hash = "be1fdcb92e3a4b0c918fd920bdf80ee26431a5f1e62aa304cb29824bca2a1d1e"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
@@ -4446,6 +4476,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+metafile = true
+
+[[files]]
+file = "mods/railway-evolution.pw.toml"
+hash = "b02cc3b71f11780676f5a06fc12eb2804b4acdf076e93e8828609e07283eca10"
 metafile = true
 
 [[files]]
@@ -4486,6 +4521,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "23ef0c67ed600fb75d47161cdbe43b860837afe9d1f3012c44f3e7eb13bdd1e5"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "16edf463baf8c96e0f13487f86c5933c512493a188d45f843db724baac2f12fd"
 metafile = true
 
 [[files]]
