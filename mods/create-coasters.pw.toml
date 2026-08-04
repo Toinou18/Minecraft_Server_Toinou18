@@ -1,13 +1,15 @@
 name = "Create Coasters"
-filename = "createcoasters-0.2.3+forge-1.20.1 (1).jar"
 side = "both"
+filename = "createcoasters-0.2.3+forge-1.20.1 (1).jar"
 
-[download]
-hash-format = "sha1"
-hash = "792d29a1207d72b06aadc580cfa14e90b0f556c2"
-mode = "metadata:curseforge"
-
-[update]
 [update.curseforge]
 file-id = 6717559
 project-id = 1298151
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "792d29a1207d72b06aadc580cfa14e90b0f556c2"
+
+[option]
+optional = true
