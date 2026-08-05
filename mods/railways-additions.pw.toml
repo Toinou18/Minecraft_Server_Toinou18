@@ -1,0 +1,13 @@
+name = "Railways Additions"
+filename = "railwaysuntold_additions-forge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UTtUaTGf/versions/pKVShkku/railwaysuntold_additions-forge-1.0.1.jar"
+hash-format = "sha512"
+hash = "447b922f1abd6e7614a796350ae4c3d73d082c4d5180b0c6dec0a10e6dc2028a91ab39f5784d0b55a042e87302f05de993f8eaae00690c6894c83384f84673f2"
+
+[update]
+[update.modrinth]
+mod-id = "UTtUaTGf"
+version = "pKVShkku"

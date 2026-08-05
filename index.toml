@@ -4209,11 +4209,6 @@ hash = "1312dfda34059b399cc080eea9d37a9823dfc1e0259c06c3c0d81798ceb463b7"
 metafile = true
 
 [[files]]
-file = "mods/create-auto-track.pw.toml"
-hash = "ca544adfe9526d3d78dad5a5fd84ab5af785b4900f0996182a2adbffff38ee5f"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "55f00dec6de619116fbedc14296e64a0124d22db005eb1433385014c95083444"
 metafile = true
@@ -4476,6 +4471,11 @@ metafile = true
 [[files]]
 file = "mods/railway-evolution.pw.toml"
 hash = "52f56be26e793a2de685c945eff6c2561e2f75b31676b23de1b53f401e343efb"
+metafile = true
+
+[[files]]
+file = "mods/railways-additions.pw.toml"
+hash = "96034f846aa3ebd94fb55971992ba762e61489d593c8c75295d2f2dbc57b4d8f"
 metafile = true
 
 [[files]]
