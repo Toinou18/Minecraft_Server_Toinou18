@@ -4434,6 +4434,11 @@ hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "6a7580ecb4abf5b74b81280f2bfcc0ccd1b2fe74e0b31929e6e1ff8509f9799b"
+metafile = true
+
+[[files]]
 file = "mods/miraisoftloginmessages.pw.toml"
 hash = "a2d1001b1d04604ebcfe071c0459538410a3a9a25a6fb1d5a79997fcef57cee5"
 metafile = true

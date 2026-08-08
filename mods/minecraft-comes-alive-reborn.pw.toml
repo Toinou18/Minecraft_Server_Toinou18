@@ -1,0 +1,13 @@
+name = "MCA Reborn"
+filename = "minecraft-comes-alive-7.6.28-beta.10+1.20.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W98a849/versions/nhSegcBW/minecraft-comes-alive-7.6.28-beta.10%2B1.20.1-universal.jar"
+hash-format = "sha512"
+hash = "01e75f96cdce169f98be6ef0bf1b43fe6151f159a953bdd1270277b8889a483ec4561fda71732884cc3ce84630d32234ab4ba45e25aeb63129619c5a61afff57"
+
+[update]
+[update.modrinth]
+mod-id = "1W98a849"
+version = "nhSegcBW"
