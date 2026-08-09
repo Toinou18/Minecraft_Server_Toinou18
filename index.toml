@@ -4254,6 +4254,11 @@ hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
 
 [[files]]
+file = "mods/create-schematic-upload.pw.toml"
+hash = "c334b4637ab94342c3b922d575b7588f4fd18bffad4b534b4c0f0d2957267c2d"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
 metafile = true
