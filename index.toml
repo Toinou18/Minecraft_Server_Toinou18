@@ -4224,8 +4224,8 @@ hash = "55f00dec6de619116fbedc14296e64a0124d22db005eb1433385014c95083444"
 metafile = true
 
 [[files]]
-file = "mods/create-broken-bad-fabric.pw.toml"
-hash = "1c839b0bc3ec21864567d8675ad76bf3b16506f42a4fea767ea5b055dbdf569e"
+file = "mods/create-broken-bad.pw.toml"
+hash = "a9dd74fd8cff0e7890b69ee7036162ae2e3659141b0dfd774a7ef45086694a35"
 metafile = true
 
 [[files]]
@@ -4290,7 +4290,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
