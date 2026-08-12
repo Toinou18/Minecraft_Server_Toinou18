@@ -4324,6 +4324,11 @@ hash = "e83fca1fae930c9513c107527d4618a8832f8b9e779e1d50b1e63e148073f83d"
 metafile = true
 
 [[files]]
+file = "mods/edible-broken-bad-stuff.pw.toml"
+hash = "1e0d8d1b5c38b9ddeb5a00375ab29d5e528521e9a84dcbcf2a58a85bef0f0ccb"
+metafile = true
+
+[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
 metafile = true
