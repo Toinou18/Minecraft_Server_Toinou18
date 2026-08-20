@@ -4224,11 +4224,6 @@ hash = "55f00dec6de619116fbedc14296e64a0124d22db005eb1433385014c95083444"
 metafile = true
 
 [[files]]
-file = "mods/create-broken-bad.pw.toml"
-hash = "a9dd74fd8cff0e7890b69ee7036162ae2e3659141b0dfd774a7ef45086694a35"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "546e187fc8c7acc99c975789f00a2e7c03c5c59aed16abf5e061370ae24d8a8a"
 metafile = true
@@ -4241,11 +4236,6 @@ metafile = true
 [[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
-metafile = true
-
-[[files]]
-file = "mods/create-missiles.pw.toml"
-hash = "e375074003b4af58201040e9dc62db995a3b4f0a0fa9b2c43887c96e1aff362c"
 metafile = true
 
 [[files]]
@@ -4319,16 +4309,6 @@ hash = "3e0011586edd5ce6a53d4e08ce1987c41d3262b0c7e8ebbdcfa77379bb2978e4"
 metafile = true
 
 [[files]]
-file = "mods/diet.pw.toml"
-hash = "e83fca1fae930c9513c107527d4618a8832f8b9e779e1d50b1e63e148073f83d"
-metafile = true
-
-[[files]]
-file = "mods/edible-broken-bad-stuff.pw.toml"
-hash = "1e0d8d1b5c38b9ddeb5a00375ab29d5e528521e9a84dcbcf2a58a85bef0f0ccb"
-metafile = true
-
-[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
 metafile = true
@@ -4351,11 +4331,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
-metafile = true
-
-[[files]]
-file = "mods/firstaid.pw.toml"
-hash = "7823845c196434c7d310e7b9ae0628dd6934bff27d3d6e572a85833e15e643f4"
 metafile = true
 
 [[files]]
@@ -4561,11 +4536,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7eee1c96436a7ec635c261fc1beb97d0b9db13cd00ec7bf1df44bb0dd7c957ab"
-metafile = true
-
-[[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "e8e2c72258f696c95099d8ecfe3cca73a96c0cbc12709c0b5877ad9d712eeae6"
 metafile = true
 
 [[files]]
