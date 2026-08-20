@@ -4550,7 +4550,7 @@ metafile = true
 
 [[files]]
 file = "mods/webstone.pw.toml"
-hash = "2a756b7a8afbeef94fee1cdb5da0bb61b21c6810ee49c971f583b22c5d48c779"
+hash = "75e7e65de22c52a0b70da2c1dbbf984826e4c35f927e0b565ef18404189915b9"
 metafile = true
 
 [[files]]
