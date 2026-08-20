@@ -4549,11 +4549,6 @@ hash = "9cad7b228a8e966b36398fbc644a420bf1b818f90352e1e8c90bca52dfef2cc0"
 metafile = true
 
 [[files]]
-file = "mods/webstone.pw.toml"
-hash = "75e7e65de22c52a0b70da2c1dbbf984826e4c35f927e0b565ef18404189915b9"
-metafile = true
-
-[[files]]
 file = "mods/wirelessredstone.pw.toml"
 hash = "eb245babd2a6ec7664ef82a5e9135636df0a6dbd7157a2058624c0b50e1b0be9"
 metafile = true
