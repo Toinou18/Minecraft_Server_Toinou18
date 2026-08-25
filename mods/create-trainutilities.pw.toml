@@ -1,0 +1,13 @@
+name = "Create Train Utilities (Create Train Doors)"
+filename = "trainutilities-forge-3.1.0-C6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kVIxLqso/versions/ZKxqJOfM/trainutilities-forge-3.1.0-C6.jar"
+hash-format = "sha512"
+hash = "a6fc72e57fab4f4791544472959950c1e268663fc506101a4227707e8daaa2a64d63708c57511123f0f92369462223fb0dddd66496727091670a2654ce9479c5"
+
+[update]
+[update.modrinth]
+mod-id = "kVIxLqso"
+version = "ZKxqJOfM"
