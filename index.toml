@@ -4249,6 +4249,11 @@ hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "53e66636a85f11bb7a535ce3e00e06b951b7ce02fa3350c31a47488088a08600"
+metafile = true
+
+[[files]]
 file = "mods/create-realism.pw.toml"
 hash = "c8a7e863f20b0c35434488b0dc75fd89cade22bef806885ae8eef21aaa3f554b"
 metafile = true
