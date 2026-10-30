@@ -4419,8 +4419,13 @@ hash = "2ca4af8ff09938ac870652fa8b47e2c1ae127decc2365a0a2fc9c8afbf25e38d"
 metafile = true
 
 [[files]]
+file = "mods/journey-pac.pw.toml"
+hash = "ff1f2b1034054b4aedb5450906192e51250c94da42484d7afcc4ea04b3f91e6d"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
-hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
+hash = "71146e24bb1192ae23ba5b27dd2905a43cce93161b0a58f762cd20b81fe0fb35"
 metafile = true
 
 [[files]]
@@ -4466,6 +4471,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f5bb6f843492ecc0e5f78ea627701e8c1df761a460dbeeab4fd095cd9882c59e"
 metafile = true
 
 [[files]]
