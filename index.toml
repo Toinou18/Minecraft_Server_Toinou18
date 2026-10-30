@@ -4179,6 +4179,16 @@ hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
 metafile = true
 
 [[files]]
+file = "mods/better-party-x-ftb-teams.pw.toml"
+hash = "9f209170644e65311798022cce6cf696cf679e70338b15dbf5bb45f2aad2d784"
+metafile = true
+
+[[files]]
+file = "mods/better-party.pw.toml"
+hash = "9f4475cfbba557d940fef760bf3221f4b9a54762f7815c814a2877b978daaf80"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true

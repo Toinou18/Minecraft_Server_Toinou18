@@ -1,0 +1,13 @@
+name = "Better Party X FTB Teams"
+filename = "better_party_ftb_teams-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WFWJ2H8D/versions/qxpt6VDH/better_party_ftb_teams-forge-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "9550aaffbc4c4eb606af076be2501b526426a8f1aca96028ec04a17693480c8c5116a4eeef57c533a5ddd261b9c831095dccc6443358393728d4b21bc44c30ed"
+
+[update]
+[update.modrinth]
+mod-id = "WFWJ2H8D"
+version = "qxpt6VDH"

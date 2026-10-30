@@ -1,0 +1,13 @@
+name = "Better Party"
+filename = "better-party-forge-1.20.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qHdVMcp2/versions/SlBzg9KH/better-party-forge-1.20.1-1.1.7.jar"
+hash-format = "sha512"
+hash = "0dba73545423de5ebf64414ee91c61b46502500c99be9a706b016a602e84c886752cf84efee5970dc5f61fcb52dd7a8a6a0856e3987503a3d4d5977c63dfbcf6"
+
+[update]
+[update.modrinth]
+mod-id = "qHdVMcp2"
+version = "SlBzg9KH"
