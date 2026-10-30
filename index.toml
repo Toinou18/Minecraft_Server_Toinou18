@@ -4540,7 +4540,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "0df23c2d7de6f4f3a6a12c2738437243aaa8021aa04660426a0d26c42b9d11f2"
+hash = "46cc417303220a3be7159ec7f4c8a7110a6b85e9f4790279ac1a63c9e7b25b46"
 metafile = true
 
 [[files]]
