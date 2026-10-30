@@ -3154,6 +3154,18 @@ file = "config/curios-common.toml"
 hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "171b3d9c3ad284f661ba427695a01f08224c61595280d1e8253d1818b3452099"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "b41e73cb911671aac28c46ce15b37f842e0e94229e9fb1540132d3b30c559c7c"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "e811b0fc1cba4062820450fd3f8628379c92b707f13d7e0468a0f05e594f2905"
+
+[[files]]
 file = "config/dragonlib-common.toml"
 hash = "71cfe3abaa9bc8050ff399c2ef9b97d669ec984727c9ed26e322a14cd839b814"
 
