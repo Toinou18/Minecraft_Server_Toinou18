@@ -4469,6 +4469,11 @@ hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
 metafile = true
 
 [[files]]
+file = "mods/odyssey-claims.pw.toml"
+hash = "42fa64d62e256c8819afa512eba031ba149f372d8f5e40d6ccff11343635aa65"
+metafile = true
+
+[[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
 metafile = true
