@@ -4259,6 +4259,11 @@ hash = "c8a7e863f20b0c35434488b0dc75fd89cade22bef806885ae8eef21aaa3f554b"
 metafile = true
 
 [[files]]
+file = "mods/create-repair.pw.toml"
+hash = "7faffc1701600d8dc780a6d9345257efc809a64869cfbcb07e36f898f06d4c8b"
+metafile = true
+
+[[files]]
 file = "mods/create-schematic-upload.pw.toml"
 hash = "c334b4637ab94342c3b922d575b7588f4fd18bffad4b534b4c0f0d2957267c2d"
 metafile = true
