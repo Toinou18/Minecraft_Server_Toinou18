@@ -4181,11 +4181,6 @@ hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
-metafile = true
-
-[[files]]
 file = "mods/better-party-x-ftb-teams.pw.toml"
 hash = "9f209170644e65311798022cce6cf696cf679e70338b15dbf5bb45f2aad2d784"
 metafile = true
@@ -4218,11 +4213,6 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
-metafile = true
-
-[[files]]
-file = "mods/coroutil.pw.toml"
-hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -4303,11 +4293,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-hash = "c6db31a666f48f3c80dd3ba1dd6e253e3785adfed19b782956a3469fb796d97c"
 metafile = true
 
 [[files]]
@@ -4461,11 +4446,6 @@ hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
 metafile = true
 
 [[files]]
-file = "mods/otyacraft-engine.pw.toml"
-hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
@@ -4513,11 +4493,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "23ef0c67ed600fb75d47161cdbe43b860837afe9d1f3012c44f3e7eb13bdd1e5"
-metafile = true
-
-[[files]]
-file = "mods/shetiphiancore.pw.toml"
-hash = "16edf463baf8c96e0f13487f86c5933c512493a188d45f843db724baac2f12fd"
 metafile = true
 
 [[files]]
