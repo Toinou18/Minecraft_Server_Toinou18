@@ -4501,6 +4501,11 @@ hash = "23ef0c67ed600fb75d47161cdbe43b860837afe9d1f3012c44f3e7eb13bdd1e5"
 metafile = true
 
 [[files]]
+file = "mods/signed-sealed.pw.toml"
+hash = "459608d80a981635b338d9dd824d7b3197e34080fd884a8aad36a5417e42c71d"
+metafile = true
+
+[[files]]
 file = "mods/tramways.pw.toml"
 hash = "4067bae519504d09cb5bb893b1a7acdb773b12fe771db5fd5aefb6535c0c873e"
 metafile = true
