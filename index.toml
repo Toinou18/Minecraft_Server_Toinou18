@@ -4171,11 +4171,6 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/animal-feeding-trough.pw.toml"
-hash = "dd120a6802f5962043d987d0b951d046f780a0a62d4ff6578fe920ee8e2ab619"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -4241,11 +4236,6 @@ hash = "1312dfda34059b399cc080eea9d37a9823dfc1e0259c06c3c0d81798ceb463b7"
 metafile = true
 
 [[files]]
-file = "mods/create-auto-track.pw.toml"
-hash = "ca544adfe9526d3d78dad5a5fd84ab5af785b4900f0996182a2adbffff38ee5f"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "55f00dec6de619116fbedc14296e64a0124d22db005eb1433385014c95083444"
 metafile = true
@@ -4276,21 +4266,6 @@ hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
 
 [[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "53e66636a85f11bb7a535ce3e00e06b951b7ce02fa3350c31a47488088a08600"
-metafile = true
-
-[[files]]
-file = "mods/create-realism.pw.toml"
-hash = "c8a7e863f20b0c35434488b0dc75fd89cade22bef806885ae8eef21aaa3f554b"
-metafile = true
-
-[[files]]
-file = "mods/create-repair.pw.toml"
-hash = "7faffc1701600d8dc780a6d9345257efc809a64869cfbcb07e36f898f06d4c8b"
-metafile = true
-
-[[files]]
 file = "mods/create-schematic-upload.pw.toml"
 hash = "c334b4637ab94342c3b922d575b7588f4fd18bffad4b534b4c0f0d2957267c2d"
 metafile = true
@@ -4313,11 +4288,6 @@ metafile = true
 [[files]]
 file = "mods/create-train-perspective.pw.toml"
 hash = "030dfb371173bb2e779f26208a164643d011f7c6b7ab0114b01e8df86ad5caf5"
-metafile = true
-
-[[files]]
-file = "mods/create-tweaked-controllers.pw.toml"
-hash = "9f44e3ca0fb7c34a8de416f8b357ef41c2b2c914a8f80e83c55e7e51c230c74d"
 metafile = true
 
 [[files]]
@@ -4381,11 +4351,6 @@ hash = "c8ad39722e45e05e34a132a77a06c7ee78e52529ba017c71b8e48c15b2e60897"
 metafile = true
 
 [[files]]
-file = "mods/eyemod-phone.pw.toml"
-hash = "39682b3a284fb0f643a7850256c9ab68d7d5123b3730092a810ec4fc2f9118ea"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
@@ -4446,16 +4411,6 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "f4216fe5a1aa2c7fa7d9ba03425096372f1b227892c2a78447d190fc22156dc0"
-metafile = true
-
-[[files]]
-file = "mods/immersive-machinery.pw.toml"
-hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "2ca4af8ff09938ac870652fa8b47e2c1ae127decc2365a0a2fc9c8afbf25e38d"
 metafile = true
@@ -4473,11 +4428,6 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "d921175a82cf60e7ebaa7f014f924b77a2f5ace44e81b309dc996c4c55b7455b"
-metafile = true
-
-[[files]]
-file = "mods/man-of-many-planes.pw.toml"
-hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
@@ -4511,18 +4461,8 @@ hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
 metafile = true
 
 [[files]]
-file = "mods/platforms.pw.toml"
-hash = "be1fdcb92e3a4b0c918fd920bdf80ee26431a5f1e62aa304cb29824bca2a1d1e"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
-metafile = true
-
-[[files]]
-file = "mods/project-1293436.pw.toml"
-hash = "cecb24d1556660e764430ff53acad6c2f107c406dab091354b5cff1557142162"
 metafile = true
 
 [[files]]
@@ -4533,16 +4473,6 @@ metafile = true
 [[files]]
 file = "mods/railway-evolution.pw.toml"
 hash = "52f56be26e793a2de685c945eff6c2561e2f75b31676b23de1b53f401e343efb"
-metafile = true
-
-[[files]]
-file = "mods/railways-additions.pw.toml"
-hash = "96034f846aa3ebd94fb55971992ba762e61489d593c8c75295d2f2dbc57b4d8f"
-metafile = true
-
-[[files]]
-file = "mods/redstone-pen.pw.toml"
-hash = "52e3e90b2af5df1504ac22354c28b67555b185384963465abc0c79605e5180e7"
 metafile = true
 
 [[files]]
@@ -4586,11 +4516,6 @@ hash = "16edf463baf8c96e0f13487f86c5933c512493a188d45f843db724baac2f12fd"
 metafile = true
 
 [[files]]
-file = "mods/signpost.pw.toml"
-hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
-metafile = true
-
-[[files]]
 file = "mods/tramways.pw.toml"
 hash = "4067bae519504d09cb5bb893b1a7acdb773b12fe771db5fd5aefb6535c0c873e"
 metafile = true
@@ -4598,11 +4523,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "a7c062fb65adaaa0607593b56cc57f6ee080d3e25ffe7fa3169eb7189693c073"
-metafile = true
-
-[[files]]
-file = "mods/ultimate-car-mod.pw.toml"
-hash = "9cad7b228a8e966b36398fbc644a420bf1b818f90352e1e8c90bca52dfef2cc0"
 metafile = true
 
 [[files]]
@@ -4618,11 +4538,6 @@ metafile = true
 [[files]]
 file = "mods/wthit-forge.pw.toml"
 hash = "28c709e9dadf580f3aeaf9b25ee06897d011b21a8c4b15d8484db59565ca5d86"
-metafile = true
-
-[[files]]
-file = "mods/yawp.pw.toml"
-hash = "529600221c2c460dcf9da6a634d2c8bbabecd4d2727359e6cd36dc636252f208"
 metafile = true
 
 [[files]]
