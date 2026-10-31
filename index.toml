@@ -4181,6 +4181,11 @@ hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
+metafile = true
+
+[[files]]
 file = "mods/better-party-x-ftb-teams.pw.toml"
 hash = "9f209170644e65311798022cce6cf696cf679e70338b15dbf5bb45f2aad2d784"
 metafile = true
