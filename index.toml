@@ -4266,6 +4266,11 @@ hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "53e66636a85f11bb7a535ce3e00e06b951b7ce02fa3350c31a47488088a08600"
+metafile = true
+
+[[files]]
 file = "mods/create-schematic-upload.pw.toml"
 hash = "c334b4637ab94342c3b922d575b7588f4fd18bffad4b534b4c0f0d2957267c2d"
 metafile = true
