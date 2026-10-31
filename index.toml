@@ -4591,11 +4591,6 @@ hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "7eee1c96436a7ec635c261fc1beb97d0b9db13cd00ec7bf1df44bb0dd7c957ab"
-metafile = true
-
-[[files]]
 file = "mods/tramways.pw.toml"
 hash = "4067bae519504d09cb5bb893b1a7acdb773b12fe771db5fd5aefb6535c0c873e"
 metafile = true
