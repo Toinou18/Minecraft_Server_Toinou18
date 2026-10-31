@@ -3155,7 +3155,7 @@ hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "171b3d9c3ad284f661ba427695a01f08224c61595280d1e8253d1818b3452099"
+hash = "c1ec43cfd515394a7de8dcbfec4c9bf4bb0e7a72ae5360302024ba36edcff72a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -4182,7 +4182,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
+hash = "2379acc68d6432c9f30b80c1fa0e0f79de3b334607506b7a39ca314192160b32"
 metafile = true
 
 [[files]]
@@ -4307,7 +4307,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "6311134242af3f639923e825caea40821c7e7ee7caadf4105234f5d7fa44ec8b"
+hash = "64019af3a63f6d5cf280ae1c62b4cd3ec13c265f67c47367ec9c6277e6d6eba4"
 metafile = true
 
 [[files]]
