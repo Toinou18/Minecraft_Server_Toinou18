@@ -4502,7 +4502,7 @@ metafile = true
 
 [[files]]
 file = "mods/signed-sealed.pw.toml"
-hash = "e9021e7de3240de2377322a803e0a58fab86d0d78a151c0b971eaa253d809c20"
+hash = "68f135a568bc85267db06da4a8fbc354c117e3b556a8807d9c975269c2015275"
 metafile = true
 
 [[files]]
