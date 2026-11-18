@@ -1,13 +1,13 @@
 name = "Wireless Redstone"
-filename = "wirelessredstone-forge-1.2.2+1.20.1.jar"
+filename = "wirelessredstone-forge-1.3.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2mBYHHZ5/versions/Pav6AGkG/wirelessredstone-forge-1.2.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/2mBYHHZ5/versions/DPmNCn5n/wirelessredstone-forge-1.3.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "9937471d6afef7f7dc9a8dbdb0cfb0cc787c1c9c2a9c7ddb557802300636585b71af4ba5103fda4e6138e413ccf68cbc3a0c98f25541d107b71c4da5e034b37f"
+hash = "36232e51abe27212880eabf523060ab02798be339597d26a4165f104cc7135202349aa661048e667d2286b39916d92556dd917701585df728c37dcc635924579"
 
 [update]
 [update.modrinth]
 mod-id = "2mBYHHZ5"
-version = "Pav6AGkG"
+version = "DPmNCn5n"

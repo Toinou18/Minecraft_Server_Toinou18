@@ -1,13 +1,13 @@
 name = "Create: Railway Evolution"
-filename = "create-railway-evolution-vanilla-edition-1.0.8.jar"
+filename = "create_railway-1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VcPwJKGX/versions/IvidH7xV/create-railway-evolution-vanilla-edition-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/VcPwJKGX/versions/BMCAeaGl/create_railway-1.0.jar"
 hash-format = "sha512"
-hash = "98bbf7be0e9ca564bc1e3692d9c9cef8d844bf30f86886817804751316d5c949898c86a839f03bf6c39897a4af28e2137d2483503646eaccf808984e0ef527cc"
+hash = "f7bf0dab09e10ef66904f9fca2e401899ed23e17c4dcb0bef282e2f109e4f3ce1e72a9419d6332cbb45cc022ce52637f4bc708d21f93b4cfd0275914a7b19425"
 
 [update]
 [update.modrinth]
 mod-id = "VcPwJKGX"
-version = "IvidH7xV"
+version = "BMCAeaGl"

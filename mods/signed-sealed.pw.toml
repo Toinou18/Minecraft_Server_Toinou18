@@ -1,13 +1,13 @@
 name = "Signed & Sealed"
-filename = "signed-and-sealed-forge-1.20.1-2.2.0.jar"
+filename = "signed-and-sealed-forge-1.20.1-2.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "caeef682401eadf83084511d6e7051426b37b326"
+hash = "25f6982bcdd8544c58d67e02b50078d29fa949cf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9435570
+file-id = 9584967
 project-id = 1758519
