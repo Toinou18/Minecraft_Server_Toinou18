@@ -4251,11 +4251,6 @@ hash = "8810b2b0e967c45b94884ee539fa2d7a4fc79e235c3a4f59b227d0721ff76ec0"
 metafile = true
 
 [[files]]
-file = "mods/create-currency-shops.pw.toml"
-hash = "28387a2a92762e588f2ce7a2a4ab4288c502af98be07f057ea5fc90207d8651d"
-metafile = true
-
-[[files]]
 file = "mods/create-cyber-goggles.pw.toml"
 hash = "f956d252c78c1f2aa70b1f1454c6b00d750ce1d04316d3775c0597e939fa305e"
 metafile = true
