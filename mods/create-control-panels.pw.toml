@@ -1,0 +1,13 @@
+name = "Create Control Panels"
+filename = "create_controlling-forge-0.2.6-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b100bf501eab88be8a65ea2a718ffc0c71109d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9703371
+project-id = 1773450
